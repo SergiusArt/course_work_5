@@ -168,3 +168,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+!/course_work_5/employers.json
+!/course_work_5/vacancies.json
